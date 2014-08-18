@@ -49,7 +49,7 @@
 }
 
 #pageBackground{
-    background-image: url("../pictures/page-background-1.jpg");
+    background-image: url("../pictures/page_background.jpg");
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: center;
