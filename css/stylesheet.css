@@ -2,10 +2,17 @@
 
 }
 
+#panelTop p {
+    padding: 5px;
+    margin: 5px;
+    width: 500px;
+    height: 10px;
+}
+
 #listNavigation{
     list-style-type: none;
-    margin: 0;
-    padding: 0;
+    margin: 5px;
+    padding: 5px;
     text-decoration: none;
 }
 
@@ -36,9 +43,13 @@
 }
 
 .navigationButton {
-    padding:5px;
-    background-color: #dcdcdc;
-    border: 1px solid #666;
+    padding:5px 5px 5px 5px;
+    background-color: lightblue;
+    border: 1px solid blue;
     color:#000;
     text-decoration:none;
+}
+
+.navigationButton:hover{
+    background-color: red;
 }
