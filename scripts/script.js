@@ -2,7 +2,7 @@
  * Created by MuhammadRizky on 8/3/14.
  */
 
-(function () {
+$(document).ready(function () {
     'use strict';
 
     // call back function of getting ajax data
@@ -70,4 +70,4 @@
 
     // Register event handlers
     $("input").on('click', getAjaxData);
-}());
+});
