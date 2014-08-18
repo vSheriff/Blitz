@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="4546e2bf-f2ee-4a21-bad3-da2fb592f863" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html/home.html" afterPath="$PROJECT_DIR$/html/home.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/stylesheet.css" afterPath="$PROJECT_DIR$/css/stylesheet.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Project Blitz.iws" />
@@ -30,7 +29,7 @@
       <file leaf-file-name="stylesheet.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/stylesheet.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="0" selection-start="14" selection-end="14" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="901">
+            <state line="48" column="1" selection-start="588" selection-end="588" vertical-scroll-proportion="0.0" vertical-offset="223" max-vertical-offset="1156">
               <folding />
             </state>
           </provider>
@@ -39,7 +38,7 @@
       <file leaf-file-name="home.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/html/home.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="36" column="0" selection-start="1328" selection-end="1328" vertical-scroll-proportion="0.67475194" vertical-offset="0" max-vertical-offset="907">
+            <state line="19" column="10" selection-start="1086" selection-end="1086" vertical-scroll-proportion="0.35611907" vertical-offset="0" max-vertical-offset="907">
               <folding />
             </state>
           </provider>
@@ -333,7 +332,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1932" height="1092" extended-state="1" />
+    <frame x="-8" y="-8" width="1932" height="1092" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -467,14 +466,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/stylesheet.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="0" selection-start="14" selection-end="14" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="901">
+        <state line="48" column="1" selection-start="588" selection-end="588" vertical-scroll-proportion="0.0" vertical-offset="223" max-vertical-offset="1156">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/html/home.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="36" column="0" selection-start="1328" selection-end="1328" vertical-scroll-proportion="0.67475194" vertical-offset="0" max-vertical-offset="907">
+        <state line="19" column="10" selection-start="1086" selection-end="1086" vertical-scroll-proportion="0.35611907" vertical-offset="0" max-vertical-offset="907">
           <folding />
         </state>
       </provider>
