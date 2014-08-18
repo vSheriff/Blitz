@@ -2,6 +2,23 @@
 
 }
 
+#listNavigation{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+
+#listNavigation li {
+    display: inline;
+}
+
+#listNavigation li a{
+    padding: .2em 1em;
+    color: #fff;
+    background-color: #036;
+}
+
 #panelBottom{
 
 }
@@ -16,4 +33,12 @@
 
 #panelContent{
 
+}
+
+.navigationButton {
+    padding:5px;
+    background-color: #dcdcdc;
+    border: 1px solid #666;
+    color:#000;
+    text-decoration:none;
 }
