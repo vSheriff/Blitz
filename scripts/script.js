@@ -10,10 +10,10 @@
         // when the home button is clicked
         if(event.target.id === "buttonHome"){
             // load the content of the home page
-            $("#panelContent").load("../AJAX/index.html #panelContent", loaded);
+            $("#panelContent").load("../AJAX/home.html #panelContent", loaded);
 
             // load the panel bottom
-            $("#panelBottom").load("../AJAX/index.html #panelBottom", loaded);
+            $("#panelBottom").load("../AJAX/home.html #panelBottom", loaded);
         }
         // when the about button is clicked
         else if (event.target.id === "buttonAbout"){
@@ -51,6 +51,15 @@
         else if (event.target.id === "buttonSocialMedia") {
             // load the social media
             // will be further developed in the future
+        }
+        // when the user clicked the browse text
+        else if (event.target.id === "textSearch"){
+            $(textBrowse).val("");
+        }
+        // when the user clicked the search button
+        else if (event.target.id === "buttonSearch"){
+            // move to search the result
+            // will be developed much further
         }
     }
 
