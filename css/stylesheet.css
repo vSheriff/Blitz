@@ -2,13 +2,6 @@
 
 }
 
-#panelTop p {
-    padding: 5px;
-    margin: 5px;
-    width: 500px;
-    height: 10px;
-}
-
 #listNavigation{
     list-style-type: none;
     margin: 5px;
