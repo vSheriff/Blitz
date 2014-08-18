@@ -60,6 +60,7 @@
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: center;
+    width: 996px; margin: 0 auto; padding: 10px;
 }
 
 #text{
