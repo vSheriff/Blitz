@@ -1,5 +1,6 @@
 #panelTop{
-
+    border:2px solid gray;
+    position:inherit;
 }
 
 #listNavigation{
@@ -45,4 +46,17 @@
 
 .navigationButton:hover{
     background-color: red;
+}
+
+#pageBackground{
+    background-image: url("../pictures/page-background-1.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    width: 996px; margin: 0 auto; padding: 10px;
+}
+
+#text{
+    font-family:Times;
+    color:#2a2828;
 }
