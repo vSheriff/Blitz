@@ -48,7 +48,7 @@
     background-color: red;
 }
 
-#pageBackground{
+#page {
     background-image: url("../pictures/page_background.jpg");
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -59,4 +59,8 @@
 #text{
     font-family:Times;
     color:#2a2828;
+}
+
+#buttonRegister{
+
 }
