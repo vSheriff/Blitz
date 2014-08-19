@@ -2,6 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4546e2bf-f2ee-4a21-bad3-da2fb592f863" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AJAX/about.html" afterPath="$PROJECT_DIR$/AJAX/about.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AJAX/account.html" afterPath="$PROJECT_DIR$/AJAX/account.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AJAX/browse.html" afterPath="$PROJECT_DIR$/AJAX/browse.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AJAX/essay.html" afterPath="$PROJECT_DIR$/AJAX/essay.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AJAX/home.html" afterPath="$PROJECT_DIR$/AJAX/home.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AJAX/register.html" afterPath="$PROJECT_DIR$/AJAX/register.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scripts/script.js" afterPath="$PROJECT_DIR$/scripts/script.js" />
     </list>
     <ignored path="Project Blitz.iws" />
@@ -28,7 +34,7 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/html/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="0" selection-start="1199" selection-end="1199" vertical-scroll-proportion="-13.730769" vertical-offset="0" max-vertical-offset="799">
+            <state line="16" column="49" selection-start="915" selection-end="925" vertical-scroll-proportion="-10.461538" vertical-offset="0" max-vertical-offset="799">
               <folding />
             </state>
           </provider>
@@ -46,7 +52,7 @@
       <file leaf-file-name="script.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/scripts/script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="63" column="5" selection-start="2544" selection-end="2544" vertical-scroll-proportion="0.0" vertical-offset="357" max-vertical-offset="1326">
+            <state line="61" column="45" selection-start="2528" selection-end="2528" vertical-scroll-proportion="0.0" vertical-offset="357" max-vertical-offset="1326">
               <folding />
             </state>
           </provider>
@@ -64,7 +70,7 @@
       <file leaf-file-name="browse.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/AJAX/browse.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="6" selection-start="78" selection-end="78" vertical-scroll-proportion="-1.9615384" vertical-offset="0" max-vertical-offset="153">
+            <state line="2" column="45" selection-start="116" selection-end="116" vertical-scroll-proportion="-1.3076923" vertical-offset="0" max-vertical-offset="153">
               <folding />
             </state>
           </provider>
@@ -73,16 +79,16 @@
       <file leaf-file-name="account.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/AJAX/account.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="6" selection-start="78" selection-end="78" vertical-scroll-proportion="-1.9615384" vertical-offset="0" max-vertical-offset="153">
+            <state line="2" column="49" selection-start="120" selection-end="120" vertical-scroll-proportion="-1.3076923" vertical-offset="0" max-vertical-offset="153">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="essay.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="essay.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/AJAX/essay.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="6" selection-start="118" selection-end="118" vertical-scroll-proportion="-1.9615384" vertical-offset="0" max-vertical-offset="153">
+            <state line="5" column="13" selection-start="257" selection-end="257" vertical-scroll-proportion="0.09371555" vertical-offset="0" max-vertical-offset="907">
               <folding />
             </state>
           </provider>
@@ -91,7 +97,7 @@
       <file leaf-file-name="register.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/AJAX/register.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="0" selection-start="126" selection-end="126" vertical-scroll-proportion="-2.6153846" vertical-offset="0" max-vertical-offset="170">
+            <state line="3" column="6" selection-start="125" selection-end="125" vertical-scroll-proportion="-1.9615384" vertical-offset="0" max-vertical-offset="153">
               <folding />
             </state>
           </provider>
@@ -100,16 +106,16 @@
       <file leaf-file-name="about.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/AJAX/about.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="0" selection-start="286" selection-end="286" vertical-scroll-proportion="-6.5384617" vertical-offset="0" max-vertical-offset="272">
+            <state line="9" column="6" selection-start="285" selection-end="285" vertical-scroll-proportion="-5.8846154" vertical-offset="0" max-vertical-offset="255">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="home.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="home.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/AJAX/home.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="0" selection-start="290" selection-end="290" vertical-scroll-proportion="0.16868798" vertical-offset="0" max-vertical-offset="907">
+            <state line="8" column="0" selection-start="283" selection-end="283" vertical-scroll-proportion="-5.230769" vertical-offset="0" max-vertical-offset="238">
               <folding />
             </state>
           </provider>
@@ -140,15 +146,15 @@
         <option value="$PROJECT_DIR$/src/accountAJAX.html" />
         <option value="$PROJECT_DIR$/src/browseAJAX.html" />
         <option value="$PROJECT_DIR$/html/home.html" />
-        <option value="$PROJECT_DIR$/AJAX/register.html" />
-        <option value="$PROJECT_DIR$/AJAX/home.html" />
-        <option value="$PROJECT_DIR$/AJAX/about.html" />
-        <option value="$PROJECT_DIR$/AJAX/essay.html" />
-        <option value="$PROJECT_DIR$/AJAX/account.html" />
-        <option value="$PROJECT_DIR$/AJAX/browse.html" />
         <option value="$PROJECT_DIR$/html/index.html" />
         <option value="$PROJECT_DIR$/css/stylesheet.css" />
+        <option value="$PROJECT_DIR$/AJAX/about.html" />
+        <option value="$PROJECT_DIR$/AJAX/register.html" />
         <option value="$PROJECT_DIR$/scripts/script.js" />
+        <option value="$PROJECT_DIR$/AJAX/account.html" />
+        <option value="$PROJECT_DIR$/AJAX/browse.html" />
+        <option value="$PROJECT_DIR$/AJAX/essay.html" />
+        <option value="$PROJECT_DIR$/AJAX/home.html" />
       </list>
     </option>
   </component>
@@ -418,37 +424,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AJAX/register.html">
+    <entry file="file://$PROJECT_DIR$/css/stylesheet.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="0" selection-start="126" selection-end="126" vertical-scroll-proportion="-2.6153846" vertical-offset="0" max-vertical-offset="170">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AJAX/about.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="0" selection-start="286" selection-end="286" vertical-scroll-proportion="-6.5384617" vertical-offset="0" max-vertical-offset="272">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AJAX/essay.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="6" selection-start="118" selection-end="118" vertical-scroll-proportion="-1.9615384" vertical-offset="0" max-vertical-offset="153">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AJAX/account.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="6" selection-start="78" selection-end="78" vertical-scroll-proportion="-1.9615384" vertical-offset="0" max-vertical-offset="153">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AJAX/browse.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="6" selection-start="78" selection-end="78" vertical-scroll-proportion="-1.9615384" vertical-offset="0" max-vertical-offset="238">
+        <state line="23" column="0" selection-start="323" selection-end="323" vertical-scroll-proportion="0.41907823" vertical-offset="0" max-vertical-offset="1156">
           <folding />
         </state>
       </provider>
@@ -469,28 +447,56 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/html/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="0" selection-start="1199" selection-end="1199" vertical-scroll-proportion="-13.730769" vertical-offset="0" max-vertical-offset="799">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/stylesheet.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="0" selection-start="323" selection-end="323" vertical-scroll-proportion="0.41907823" vertical-offset="0" max-vertical-offset="1156">
+        <state line="16" column="49" selection-start="915" selection-end="925" vertical-scroll-proportion="-10.461538" vertical-offset="0" max-vertical-offset="799">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/scripts/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="63" column="5" selection-start="2544" selection-end="2544" vertical-scroll-proportion="0.0" vertical-offset="357" max-vertical-offset="1326">
+        <state line="61" column="45" selection-start="2528" selection-end="2528" vertical-scroll-proportion="0.0" vertical-offset="357" max-vertical-offset="1326">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AJAX/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="6" selection-start="285" selection-end="285" vertical-scroll-proportion="-5.8846154" vertical-offset="0" max-vertical-offset="255">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AJAX/register.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="6" selection-start="125" selection-end="125" vertical-scroll-proportion="-1.9615384" vertical-offset="0" max-vertical-offset="153">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AJAX/account.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="49" selection-start="120" selection-end="120" vertical-scroll-proportion="-1.3076923" vertical-offset="0" max-vertical-offset="153">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AJAX/browse.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="45" selection-start="116" selection-end="116" vertical-scroll-proportion="-1.3076923" vertical-offset="0" max-vertical-offset="153">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/AJAX/home.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="0" selection-start="290" selection-end="290" vertical-scroll-proportion="0.16868798" vertical-offset="0" max-vertical-offset="907">
+        <state line="8" column="0" selection-start="283" selection-end="283" vertical-scroll-proportion="-5.230769" vertical-offset="0" max-vertical-offset="238">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AJAX/essay.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="13" selection-start="257" selection-end="257" vertical-scroll-proportion="0.09371555" vertical-offset="0" max-vertical-offset="907">
           <folding />
         </state>
       </provider>

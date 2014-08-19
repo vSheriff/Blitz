@@ -54,7 +54,7 @@ $(document).ready(function () {
         }
         // when the user clicked the browse text
         else if (event.target.id === "textSearch"){
-            $(textBrowse).val("");
+            $(textSearch).val("");
         }
         // when the user clicked the search button
         else if (event.target.id === "buttonSearch"){
