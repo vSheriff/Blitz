@@ -2,6 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4546e2bf-f2ee-4a21-bad3-da2fb592f863" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/left.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/right.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/sample1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/sample2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/sample3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/sample4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/angular.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AJAX/essay.html" afterPath="$PROJECT_DIR$/AJAX/essay.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AJAX/home.html" afterPath="$PROJECT_DIR$/AJAX/home.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scripts/script.js" afterPath="$PROJECT_DIR$/scripts/script.js" />
