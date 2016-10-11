@@ -1,0 +1,131 @@
+h1{
+	text-align: left;
+	color: green;
+}
+a {
+	text-decoration: none;
+	color: white;
+}
+ul{
+	list-style-type: none;
+}
+a:hover{
+	background-color: white;
+	color: black;
+}
+.top-panel{
+	text-decoration: none;
+	display: inline;
+	margin-bottom: 64px;
+}
+.top-panel li{
+	display: inline;
+}
+body{
+	margin: 12px;
+	background-color: grey;
+	//background-image: url("../pics/mirror.jpg");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: center;
+	color: white;
+	border-bottom-left-radius: 4px;
+	border-bottom-right-radius: 4px;
+	border-top-left-radius: 4px;
+	border-top-right-radius: 4px;
+}
+#navigate-the-site{
+	float: left;
+}
+#follow-us{
+	float:right;
+	margin-right: 55px;
+}
+#mirror{
+	margin: 1px;
+	border: 1px solid white;
+	border-bottom-left-radius: 4px;
+	border-bottom-right-radius: 4px;
+	border-top-left-radius: 4px;
+	border-top-right-radius: 4px;
+}
+#home, #browsing, #myAccount, #facebook, #twitter, #linkedin, #youtube, #instagram, #github{
+	background-color: blue;
+	padding-right: 4px;
+	padding-left: 4px;
+	border: 1px solid black;
+	color: black;
+	border-bottom-left-radius: 4px;
+	border-bottom-right-radius: 4px;
+	border-top-left-radius: 4px;
+	border-top-right-radius: 4px;
+}
+#home a, #browsing a, #myAccount a, #facebook a, #twitter a, #linkedin a, #youtube a, #instagram a, #github a{
+	color: white;
+}
+#home a:hover, #browsing a:hover, #myAccount a:hover, #facebook a:hover, #twitter a:hover, #linkedin a:hover, 
+#youtube a:hover,#github a:hover, #instagram a:hover{	
+	background-color: limegreen;
+}
+#youtube{
+	border-bottom-right-radius: 0.1px;
+	border-top-right-radius: 0.1px;
+	padding-right: 0px;
+}
+#search-box{
+	border: 4px solid white;
+	border-bottom-left-radius: 4px;
+	border-bottom-right-radius: 4px;
+	border-top-left-radius: 4px;
+	border-top-right-radius: 4px;
+}
+.ads{
+	background-color: black;
+	border-bottom-left-radius: 8px;
+	border-bottom-right-radius: 8px;
+	border-top-left-radius: 8px;
+	border-top-right-radius: 8px;
+}
+#left-ads{
+	color: blue;
+	text-align: center;
+	float: left;
+	width: 150px;
+	height: 888px;
+	margin: 40px 55px 55px 55px;
+	border: 1px solid blue;
+}
+#right-ads{
+	color: blue;
+	text-align: center;
+	float: right;
+	width: 150px;
+	height: 888px;
+	margin: 40px 55px 55px 55px;
+	border: 1px solid blue;
+}
+.bottom-panel{
+	height: 150px;
+	//text-align: center;
+	border: 1px solid red;
+	width: 1215px;
+	margin-left: 55px;
+	margin-top: 40px;
+	border-bottom-left-radius: 8px;
+	border-bottom-right-radius: 8px;
+	border-top-left-radius: 8px;
+	border-top-right-radius: 8px;
+}
+.bottom-panel ul li{
+	text-decoration: none;
+}
+.search ul li{
+	text-decoration: none;
+	font-size: 44px;
+	color: white;
+}
+
+.middle-panel{
+	height: ;
+	width: ;
+}

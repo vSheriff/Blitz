@@ -1,0 +1,71 @@
+body{
+	//background-image: url("../pics/home.png");
+}
+#invite_message{
+	height: 100px;
+	padding: ;
+	border: ;
+	width: 800px;
+	text-align: center;
+	color: ;
+	margin: 4px 0px 4px 262px;
+	border: 1px solid pink;
+	background-color: purple;
+	border-bottom-left-radius: 8px;
+	border-bottom-right-radius: 8px;
+	border-top-left-radius: 8px;
+	border-top-right-radius: 8px;
+}
+#join{
+	height: 88px;
+	text-align: center;
+	color: white;
+	margin: 4px 0px 4px 262px;
+	margin-bottom: 12px;
+	border: 1px solid red;
+	width: 800px;
+	background-color: brown;
+	border-bottom-left-radius: 8px;
+	border-bottom-right-radius: 8px;
+	border-top-left-radius: 8px;
+	border-top-right-radius: 8px;
+}
+.bottom-panel{
+	background-color: chocolate;
+	
+}
+#essay-preview{
+	padding: ;
+	background-color: ;
+	margin: ;
+	border: ;
+	height: 680px;
+	text-align: left;
+	width: ;
+	overflow: auto;
+	border: 1px solid grey;	
+	background-color: green;
+	border-bottom-left-radius: 8px;
+	border-bottom-right-radius: 8px;
+	border-top-left-radius: 8px;
+	border-top-right-radius: 8px;
+	font-size: 36px;
+}
+#right_arrow{
+	float: right;
+	border-bottom-left-radius: 4px;
+	border-bottom-right-radius: 2px;
+	border-top-left-radius: 4px;
+	border-top-right-radius: 2px;
+}
+#left_arrow{
+	float: left;
+	border-bottom-left-radius: 2px;
+	border-bottom-right-radius: 4px;
+	border-top-left-radius: 2px;
+	border-top-right-radius: 4px;
+}
+#right_arrow img, #left_arrow img{
+	z-index: -1;
+}
+

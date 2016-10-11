@@ -1,0 +1,32 @@
+body{
+	//background-image: url("../pics/search.png");
+}
+.search p{
+	font-size: 36px;
+	overflow: hidden;
+}
+.search{
+	height: 888px;
+	overflow: auto;
+}
+.search img {
+	width: 100px;
+	height: 100px;
+	float: left;
+	margin: 4px 8px 4px 56px;
+	border-bottom-left-radius: 4px;
+	border-bottom-right-radius: 4px;
+	border-top-left-radius: 4px;
+	border-top-right-radius: 4px;
+}
+#search-result{
+	border: 1px solid torquiseblue;
+	background-color: royalblue;
+	border-bottom-left-radius: 8px;
+	border-bottom-right-radius: 8px;
+	border-top-left-radius: 8px;
+	border-top-right-radius: 8px;
+}
+.bottom-panel{
+	background-color: maroon;
+}

@@ -1,0 +1,36 @@
+body{
+	//background-image: url("../pics/register.png");
+}
+.register{
+	height: 700px;
+	text-align: left;
+}
+h2{
+	text-align: center;
+	color: red;
+}
+.bottom-panel{
+	background-color: chocolate;
+}
+#facebook-integration{
+	height: 120px;
+	margin-left: 255px;
+	margin-bottom: 4px;
+	border: 1px solid grey;
+	width: 800px;
+	background-color: limegreen;
+	border-bottom-left-radius: 8px;
+	border-bottom-right-radius: 8px;
+	border-top-left-radius: 8px;
+	border-top-right-radius: 8px;
+}
+#registration-info{	
+	background-color: blueviolet;
+	border: 2px solid violet;
+	width: 800px;
+	margin-left: 255px;
+	border-bottom-left-radius: 8px;
+	border-bottom-right-radius: 8px;
+	border-top-left-radius: 8px;
+	border-top-right-radius: 8px;
+}

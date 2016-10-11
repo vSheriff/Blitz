@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+	<html>
+		<head>
+			<link type="text/css" href="../css/template.css" rel="stylesheet">
+			<link type="text/css" href="../css/home.css" rel="stylesheet">
+			<title>Home</title>
+		</head>
+		<body>
+			<div class="top-panel" id="navigation-bar">					
+				<div class="nav" id="navigate-the-site">
+					<ul>
+						<li id="home"><a href="../html/Home.html">Home</a></li>
+						<li id="browsing"><a href="../html/Browsing.html">Browse</a></li>
+						<li id="myAccount"><a href="#">My Account</a></li>
+						<li id="search-box"><a href="#"><input type="text" name="search-box" value="search"></a></li>
+						<li id="mirror"><a href="../html/Search.html"><img id="mirror" src="../pics/mirror_real.jpg" alt="" 
+						width="18px" height="18px"></a></li>
+					</ul>
+				</div>
+				<div class="nav" id="follow-us">
+					<ul>
+						<li id="github"><a href="https://www.github.com/Blitz">GitHub</a></li>
+						<li id="facebook"><a href="https://wwww.facebook.com/blitz">Facebook</a></li>
+						<li id="twitter"><a href="https://www.twitter.com/blitz">Twitter</a></li>
+						<li id="linkedin"><a href="https://www.linkedin.com/blitz">LinkedIn</a></li>
+						<li id="youtube"><a href="https://www.youtube.com/blitz">You<span style="background-color:red;border-bottom-left-radius: 4px;
+						border-bottom-right-radius: 4px;border-top-right-radius: 4px;border-top-left-radius: 4px">Tube</span></a></li>
+						<li id="instagram"><a href="https://www.instagram.com/blitz">Instagram</a></li>
+					</ul>
+				</div>
+			</div>
+			<br><br><br>
+			<div class="middle-panel">
+				<a href="#" alt="left panel ad">
+					<div class="ads" id="left-ads">
+						<br><br><br>
+						Ads<br>
+						<p>Advertising here will provide revenue in maintaing this site.</p>
+						<br>
+						<p>Come on guys, advertise with us in helping us keep this going. Look at it as a form of investment:
+						you are investing in the future of the college students who will benefit from the contents of this site
+						as they get prepared for working for you in a year or two.</p>
+					</div>
+				</a>
+				<a href="#" alt="right panel ad">
+					<div class="ads" id="right-ads">
+						<br><br><br>
+						Ads<br>
+						<p>Advertising here will provide revenue in maintaing this site.</p>
+						<br>
+						<p>Come on guys, advertise with us in helping us keep this going. Look at it as a form of investment:
+						you are investing in the future of the college students who will benefit from the contents of this site
+						as they get prepared for working for you in a year or two.</p>
+					</div>
+				</a>
+				<br><br>
+				<div class="essay" id="essay-preview">
+					<br><br><br>
+					<p>&#160 &#160 &#160 &#160 &#160 &#160 &#160 &#160 &#160 &#160 &#160 Free
+					<br><br><br><br>  
+					<a href="#"><img id="left_arrow" src="../pics/arrow_left.png" alt="previous_essay" width="56px" height="56px" 
+					onClick="previousEssay()"></a>
+					<a href="#"><img id="right_arrow" src="../pics/arrow_right.png" alt="next_essay" width="56px" height="56px" onClick="nextEssay()"></a>
+					&#160 &#160 &#160 &#160 &#160 &#160 &#160 &#160 &#160 &#160 &#160 &#160 &#160 Essay 
+					<br><br><br><br>
+					&#160 &#160 &#160 &#160 &#160 &#160 &#160 &#160  &#160 &#160 &#160 &#160 &#160 &#160 &#160 &#160 &#160 &#160 &#160 
+					&#160 &#160 &#160 &#160 &#160 &#160 Preview</p>
+					<!-- we need two arrow-like figures here, one pointing to the right and the 
+					other pointing to the left, to help with the navigation through the essays as 
+					only one essay is displayed on the panel at a time. By clicking on the right arrow-like 
+					figure, you should get the next essay in the catalog. Likewise, by clicking on the left 
+					arrow-like figure, you should get the previous essay in the catalog, if any.-->
+					<p id="functionCall"></p>
+				</div>
+				<script>
+				function nextEssay(){
+					document.getElementById("essay-preview").background-color="yellow"; 
+				}
+				function previousEssay(){
+					/*var sig = "<a href="#">Sign In</a>";
+					var reg = "<a href="..../html/Register.html">Register</a>";
+					document.getElementById("functionCall").innerHTML="You have reached the end of the essays. 
+					+ "Thanks for browsing the free essays." + sig + " Or, " + reg + " for an account" 
+					+ " to view premium 'A' grade papers"; */
+					document.getElementById("essay-preview").background-color="brown";
+				}
+				</script>
+				<div id="invite_message">
+					<p id="call-to-create">Create a free account to get premium 'A' class
+					papers</p>
+				</div>
+				<a href="../html/Register.html"><div id="join"><p>join</p></div></a>
+			</div>
+			<div class="bottom-panel">
+				<ul>
+				<br>
+					<li><a href="../Terms and Agreement.docx" id="terms&agree">Terms and Agreement</a></li>
+					<li><a href="../About Us.docx" id="about-us">About Us</a></li>
+				</ul>
+				<p></p>
+				<p></p>
+				<p></p>
+			</div>
+		</body>
+	</html>
